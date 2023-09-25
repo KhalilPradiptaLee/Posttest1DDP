@@ -1,6 +1,6 @@
 # Post Test 1 Dasar dasar Pemrograman
 ## Daftar Isi
-* [Identitas](https://github.com/KhalilPradiptaLee/Posttest1DDP#daftar-isi)
+* [Identitas](https://github.com/KhalilPradiptaLee/Posttest1DDP#identitas)
 * [Penjelasan](https://github.com/KhalilPradiptaLee/Posttest1DDP#penjelasan)
   * [Flow Chart](https://github.com/KhalilPradiptaLee/Posttest1DDP#flow-chart)
   * [Screenshot Input dan Output](https://github.com/KhalilPradiptaLee/Posttest1DDP#screenshot-input-dan-output)
