@@ -10,6 +10,5 @@ NIM : 2309116046
 
 ## Screenshot Input dan Output
 ini penjelasan
-<img width="960" alt="Cuplikan layar 2023-09-25 210954" src="https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/f6cbdf9b-8b85-484a-84b7-5f3ef2a9d7a7">
-<img width="960" alt="Cuplikan layar 2023-09-25 211016" src="https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/f0ba3d06-9708-47ab-a948-4df229572059">
-<img width="960" alt="Cuplikan layar 2023-09-25 211023" src="https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/efbc0a17-2a07-4efc-9075-cc3dd5050593">
+<img width="960" alt="Cuplikan layar 2023-09-25 223615" src="https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/6a0773cf-0714-4c71-91b3-23fd4174236e">
+<img width="960" alt="Cuplikan layar 2023-09-25 223615" src="https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/881ef117-1391-434b-b1d8-b4d0017e581b">
