@@ -1,7 +1,4 @@
-![flowc 1](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/cc48118e-02e0-46fa-9410-7b83ea047a09)
-![flowc 2](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/1986d861-a657-4b99-a48d-f643956d458e)
-#Posttest 1 DDP
-# Membuat function untuk login
+# Membuat function untuk login, disini terdapat Nama, NIM, dan Password. Setelah melakukan login maka pengguna akan dibawa menuju menu berikutnya yaitu menu pilihan
 def login():
     while True: # membuat loop pada login
         print("\nSilakan input data pada menu dibawah berikut:") # \n untuk membuat satu baris kosong ketika program dijalankan
@@ -16,12 +13,7 @@ def login():
             return data_nama
             break # keluar dari loop ini dan lanjut ke bagian menu pilihan
 
-''' 
-Membuat function untuk membuat rumus bola, tabung, dan limas segitiga
-terlebih dahulu agar sistem dapat mengetahui isi dari program function
-jika kita langsung membuat halaman menu maka sistem tidak akan mengetahui
-isi dari suatu rumus bola, tabung, dan limas segitiga dan terjadi eror 
-'''
+# Membuat function untuk membuat rumus bola, tabung, dan limas segitiga terlebih dahulu agar sistem dapat mengetahui isi dari program function jika kita langsung membuat halaman menu maka sistem tidak akan mengetahui isi dari suatu rumus bola, tabung, dan limas segitiga dan terjadi eror
 
 def hitung_volume_bola():
     jari_jari = float(input("Masukkan jari-jari bola: "))
@@ -50,7 +42,7 @@ def hitung_volume_limas_segitiga():
         volume = (1/3) * (1/2 * alas * tinggisegitiga) * tinggi  # ** adalah pangkat
         print(f"Volume limas segitiga adalah : {volume:.2f}") #.2f agar hasil float yang ditunjukkan hanya 2 bilangan desimal dibelakang angka utama
 
-# setelah membuat fungsi rumus-rumus tadi kemudian kita membuat menu utama
+# setelah membuat fungsi rumus-rumus tadi kemudian kita membuat menu utama, di menu utama terdapat 4 pilihan, jika memilih selain dari 4 pilihan tersebut maka akan terjadi eror dan pengguna akan dibawa menuju menu pilihan kembali
 def menu_utama(data_nama):
     while True: # membuat loop untuk menu pilihan
         print("\nMenu Pilihan:")
@@ -61,6 +53,7 @@ def menu_utama(data_nama):
         print("4. Logout") # opsi untuk keluar dari loop menu pilihan sekaligus keluar dari program
         print("=" * 12) # = * 12 berarti ============
 
+# Bagian penginputan data, jika memilih selain dari 4 pilihan tersebut maka akan terjadi eror dan pengguna akan dibawa menuju menu pilihan kembali. Dan jika memilih program sesuai input maka menu akan berlanjut
         pilihan = input("Pilih opsi (1/2/3/4): ")
 
         if pilihan == "1":
@@ -75,7 +68,7 @@ def menu_utama(data_nama):
         else:
             print("Pilihan tidak valid. Silahkan Ketik Menggunakan format yang telah ada.")
 
-# ini adalah title ketika kita baru saja menjalankan sebuah program ini
+# ini adalah title ketika kita baru saja menjalankan sebuah program ini. Berfungsi untuk menentukan alur program ini agar runtun
 if __name__ == "__main__":
     print("Selamat datang di Kalkulator Sederhana!")
     print("=" *42) # = * 12 berarti ============ hingga 42
@@ -85,3 +78,5 @@ if __name__ == "__main__":
         menu_utama(data_nama) # Setelah berhasil login, program menjalankan fungsi ini / lanjut ke menu pilihan 
         keluar = print("\nTerima kasih telah menggunakan aplikasi ini. Selamat tinggal!") # akan tercetak setelah kita memilih menu pilihan 4
         exit() # Program berakhir
+
+# Untuk beberapa penjelasan lebih lanjut dapat dilihat dari comment (#) disebelah barisan pemrograman yang telah dibuat
