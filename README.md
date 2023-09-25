@@ -5,7 +5,7 @@ Nama : Khalil Pradipta Lee\
 NIM : 2309116046
 
 ## Flow-chart
-![[Flowchart Kalk Bangun Ruang -Halaman-1 drawio](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/28f5e23f-cb28-41e7-8442-3ff407149e6c)
+![Flowchart Kalk Bangun Ruang -Halaman-1 drawio](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/83fa9a6c-2cc1-40ae-b56e-03e91bee8055)
 ![Flowchart Kalk Bangun Ruang -Halaman-2 drawio](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/f520bdeb-67f2-49a9-a784-4049fb8e1fa2)
 
 
