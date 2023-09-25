@@ -16,10 +16,12 @@ def login():
             return data_nama
             break # keluar dari loop ini dan lanjut ke bagian menu pilihan
 
-# Membuat function untuk membuat rumus bola, tabung, dan limas segitiga
-# terlebih dahulu agar sistem dapat mengetahui isi dari program function
-# jika kita langsung membuat halaman menu maka sistem tidak akan mengetahui
-# isi dari suatu rumus bola, tabung, dan limas segitiga dan terjadi eror
+''' 
+Membuat function untuk membuat rumus bola, tabung, dan limas segitiga
+terlebih dahulu agar sistem dapat mengetahui isi dari program function
+jika kita langsung membuat halaman menu maka sistem tidak akan mengetahui
+isi dari suatu rumus bola, tabung, dan limas segitiga dan terjadi eror 
+'''
 
 def hitung_volume_bola():
     jari_jari = float(input("Masukkan jari-jari bola: "))
