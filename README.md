@@ -1,5 +1,5 @@
-![flowc 2](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/1986d861-a657-4b99-a48d-f643956d458e)
 ![flowc 1](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/cc48118e-02e0-46fa-9410-7b83ea047a09)
+![flowc 2](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/1986d861-a657-4b99-a48d-f643956d458e)
 #Posttest 1 DDP
 # Membuat function untuk login
 def login():
