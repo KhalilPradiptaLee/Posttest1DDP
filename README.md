@@ -1,3 +1,5 @@
+![flowc 1](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/28f5e23f-cb28-41e7-8442-3ff407149e6c)
+![flowc 2](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/e93d1127-54d7-4cfc-b78d-72c6678c9ad6)
 # Membuat function untuk login, disini terdapat Nama, NIM, dan Password. Setelah melakukan login maka pengguna akan dibawa menuju menu berikutnya yaitu menu pilihan
 def login():
     while True: # membuat loop pada login
