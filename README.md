@@ -5,8 +5,9 @@ Nama : Khalil Pradipta Lee\
 NIM : 2309116046
 
 ## Flow-chart
-![flowc 1](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/28f5e23f-cb28-41e7-8442-3ff407149e6c)
-![flowc 2](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/e93d1127-54d7-4cfc-b78d-72c6678c9ad6)
+![[Flowchart Kalk Bangun Ruang -Halaman-1 drawio](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/28f5e23f-cb28-41e7-8442-3ff407149e6c)
+![Flowchart Kalk Bangun Ruang -Halaman-2 drawio](https://github.com/KhalilPradiptaLee/Posttest1DDP/assets/144757000/f520bdeb-67f2-49a9-a784-4049fb8e1fa2)
+
 
 ## Screenshot Input dan Output
 ini penjelasan
