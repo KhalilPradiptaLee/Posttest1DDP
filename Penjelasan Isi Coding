@@ -14,4 +14,4 @@ Masuk pada bagian kalkulator bangun ruang, kita tinggal menginputkan angka yang 
 
 note tambahan, jika input angka dibawah < 1 maka akan terjadi error dan akan kembali ke menu memilih
 
-Jika pengguna memilih input logout maka program akan berakhir dan tertutup
+Jika pengguna memilih input logout maka program akan berakhir dan tertutup.md
